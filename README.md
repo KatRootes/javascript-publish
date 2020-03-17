@@ -3,6 +3,8 @@ Demonstration of filtering by multiple criteria for a table of data.  In this ca
 
 NOTE:  Original commits were done to the javascript-challenge repo but it would not publish without re-organizing folders so this repo was created after coding was completed.
 
+https://katrootes.github.io/javascript-publish/
+
 # Technologies and Resources
 * Java Script
 * Bootstrap
